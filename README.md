@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Project structure is as follows:
+This is SwiftUI project that has two main functionalities: adding meal notes with calories and fetching popular meal options using the PublicAPI. Project structure is as follows:
 1) Database - contains files to work with the CoreData database that saves the notes locally on a device.
 2) Utilities - contains helper files with extensions and constants that ease the development.
 3) Networking - contains files to work with networking. Built upon URLSession class.
